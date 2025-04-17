@@ -1,2 +1,2 @@
 # grad-school-research
-grad school research focusing on thermodynamics and human performance in sports analytics, AI-driven personalized health forecasting kertaconus progression, and reinforcement learning for tactical optimization in soccer via spatiotemporal and thermondynamic simulation
+The world's greatest sport—football, soccer, fútbol—the translation for the game spans all languages. When the game is on the line and the best XI are needed on the pitch, this era of soccer demands next-level innovation through the use of data. Reinforcement learning offers a perspective on the game we love like never before. Through this AI-driven strategy, we can redefine soccer tactics and, more importantly, predict a player's level of fatigue.
